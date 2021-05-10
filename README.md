@@ -1,1 +1,1 @@
-# This repo is for resume.
+# This repo is for personal resume.
