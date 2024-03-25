@@ -473,3 +473,10 @@ a {
   color:black;
 }
 
+.paging_cn{
+  height:120px;
+}
+
+.paging_en{
+  height:90px;
+}
